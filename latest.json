@@ -1,7 +1,7 @@
 {
-  "version": "1.3",
-  "title": "стиль HUNGER і оновлення самі",
-  "notes": "Стиль і гра HUNGER. Код підтримки: після донату від 200 ₴ нові версії завантажуються й ставляться самі, кнопкою «Оновити зараз».",
+  "version": "1.4",
+  "title": "переклад чату, DeepL і Google, гра визначається сама",
+  "notes": "Переклад чату Twitch і YouTube з показом в OBS. Переклад через DeepL чи Google зі своїм ключем — без потужної відеокарти. Гра визначається сама.",
   "url": "https://translator.romankuli.com.ua",
   "support": "https://donatello.to/romankuli"
 }
