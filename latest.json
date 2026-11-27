@@ -1,7 +1,7 @@
 {
-  "version": "1.4",
-  "title": "переклад чату, DeepL і Google, гра визначається сама",
-  "notes": "Переклад чату Twitch і YouTube з показом в OBS. Переклад через DeepL чи Google зі своїм ключем — без потужної відеокарти. Гра визначається сама.",
+  "version": "1.4.1",
+  "title": "переклад чату, DeepL і Google, гра визначається сама — і швидше",
+  "notes": "Переклад чату Twitch і YouTube з показом в OBS. Переклад через DeepL чи Google зі своїм ключем. Гра визначається сама. Субтитри зʼявляються швидше.",
   "url": "https://translator.romankuli.com.ua",
   "support": "https://donatello.to/romankuli"
 }
